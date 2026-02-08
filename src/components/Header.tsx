@@ -4,8 +4,8 @@ import Link from "next/link";
 
 export const Header = () => {
   return (
-    <div className="w-full h-[89px]   flex justify-center items-center">
-      <div className="w-[1152px] h-[25px]  flex justify-between items-center ">
+    <div className="w-full h-[89px]   flex justify-center items-center ">
+      <div className="w-[1152px] h-[25px]  flex justify-between items-center  px-5 md:px-0 ">
         <Link href="/">
           <svg
             xmlns="http://www.w3.org/2000/svg"
