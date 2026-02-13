@@ -2,8 +2,8 @@ import React from "react";
 
 function OurUsers() {
   return (
-    <div className="w-full h-[677px] py-[64px] px-[24px]  flex justify-center items-center">
-      <div className="w-[1152px] h-[677px]  flex justify-center items-center ">
+    <div className="w-full h-auto py-[64px] px-[24px]  flex justify-center items-center ">
+      <div className="w-[1152px] h-auto  flex justify-center items-center ">
         <div className="mx-auto w-full max-w-6xl">
           <h2 className="font-bold leading-tight tracking-tight font-display text-slate-700 text-3xl md:text-4xl text-center mb-9 font-semibold">
             What our users say
